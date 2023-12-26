@@ -1,12 +1,17 @@
+
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+
+<h2 align="center">
+
+  <img src="https://i.pinimg.com/564x/e8/59/3d/e8593d4ba9910fd08c66aca010207ca4.jpg" width="50%" />
+</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=https://github.com/Code-with-Abhishek-Gupta&label=Profile%20views&color=0e75b6&style=flat" alt="https://github.com/Code-with-Abhishek-Gupta" /> </p>
+
 <h1 align="center">Hi 👋, I'm Abhishek gupta</h1>
 
 
 
 
-<p style="margin-left:10%; "><img
-        src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"
-        alt="instagram" width="100%">
-</p>
 
 
 
@@ -72,3 +77,4 @@
 
 
 
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
